@@ -1,0 +1,17 @@
+ Feb 15, 2021
+
+PySpark Practice session - 1
+
+1. To see spark version in google colab - spark.version
+
+2. To create pyspark dataframe from
+
+        1. List
+        2. Dictionary
+
+        3. Tuples
+
+        4. List of objects
+
+3. Difference between numpy array and python list | numpy array is better.
+
